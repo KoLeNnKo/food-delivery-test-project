@@ -28,6 +28,7 @@ docker-compose up --build
     Админка RabbitMQ: http://localhost:15672 (guest/guest)
     PostgreSQL: порт 5432
     Redis: порт 6379
+    Swagger: http://localhost:8000/docs
 
 
 ### 3. Инициализация базы данных
